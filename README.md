@@ -1,6 +1,6 @@
 # Multifunctional-Keylogger
  
-# 🖥️ Python Keylogger – Educational Tool
+# 🖥️ Python Keylogger – An Revolutionary Educational Tool in context of Cybersecurity/Ethicalhacking
 
 > ⚠️ **DISCLAIMER**: This project is intended strictly for educational and ethical hacking purposes. Do not deploy or distribute without explicit permission from the device owner. Misuse may be illegal and punishable under cybersecurity laws.
 
@@ -89,4 +89,4 @@ This script should never be used for spying, stalking, or stealing personal info
 - Ethical hacking training
 
 ## 🙋‍♂️ Author
-Built with passion by an ethical hacker(@PHHS-07) for practice & learning.
+Built with passion by an ethical hacker(@PHHS-07) for funfull practice & joyfull learning.
