@@ -1,0 +1,8 @@
+pyscreenshot
+pynput
+sounddevice
+clipboard
+cryptography
+requests
+pywin32
+scipy
