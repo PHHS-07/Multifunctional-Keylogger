@@ -89,4 +89,4 @@ This script should never be used for spying, stalking, or stealing personal info
 - Ethical hacking training
 
 ## 🙋‍♂️ Author
-Built with passion by an ethical hacker for practice & learning.
+Built with passion by an ethical hacker(@PHHS-07) for practice & learning.
